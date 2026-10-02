@@ -12,9 +12,9 @@ This project is split into two files for modularity:
 
 Financial risk and expense tracker/
 │
-├── expense_tracker.py   # Defines Rest_amount() function
-├── total_expense.py     # Uses Rest_amount() and calculates expenses
-└── README.md            # Documentation
+├── expense_tracker.py  
+├── total_expense.py    
+└── README.md           
 
 
 ---
